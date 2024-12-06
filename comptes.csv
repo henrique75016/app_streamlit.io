@@ -1,0 +1,2 @@
+name,password,email,failed_login_attemps,logged_in,role
+admin,admin123,admin@gmail.com,0,False,administrateur
